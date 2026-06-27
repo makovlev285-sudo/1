@@ -1,0 +1,5 @@
+node_modules/
+history.json
+playerstats.json
+mapstats.json
+.env
